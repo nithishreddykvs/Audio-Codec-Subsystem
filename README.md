@@ -10,22 +10,6 @@ The primary objective of this project is to design, verify, and integrate essent
 ---
 
 
-## 🎯 Internal Components Designed
-
-- **Differential Amplifier**  
-  Amplifies the differential input audio signal for further processing.
-
-- **Analog to Digital Converter (ADC)**  
-  Converts the continuous-time analog signal into a discrete digital output.
-
-- **Sample and Hold Circuit**  
-  Captures and maintains a stable analog value for the ADC to convert.
-
-- **Parallel to Serial Converter**  
-  Converts ADC’s parallel digital output to a serial data stream compatible with the Bluetooth SoC interface.
-
-
-
 ## 🎯 Subsystem Components
 
 | Component                       | Description                                                      |
